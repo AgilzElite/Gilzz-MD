@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+  ['6281268568898'],
+  ['6282180426880'],
+  ['6285857537269', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
@@ -58,7 +58,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 packname = sticker_name
 author = sticker_author
-wm = '© Aine'
+wm = '© Gilzz'
 
 Intervalmsg = 1800 //detik
 
